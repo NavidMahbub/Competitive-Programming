@@ -1,0 +1,18 @@
+while(getline(cin,s1)) {
+        int nibo = 1;
+        string s,f;
+
+        rep( 0 , s1.size() ) {
+            if(! (isalpha(s1[i])) ) {
+                nibo = 0;
+                i++;
+            }
+            if(isalpha( s1[i]) ) {
+                nibo ? f = f + s1[i] : s = s + s1[i];
+            }
+        }
+        if( nibo ) {
+            in s;
+            getchar();
+        }
+}

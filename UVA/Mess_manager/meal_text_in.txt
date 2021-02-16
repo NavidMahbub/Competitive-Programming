@@ -1,0 +1,11 @@
+10 16569
+mehedi 60 1000
+parvej 57.5 1316
+rasel 60 2000
+nazmul 60 1010
+mondol 60 1100
+anik 60 1577
+mahbub 49 1012
+sarif 51 1000
+atik 59.5 2000
+iqbal 59 1000

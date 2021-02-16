@@ -1,0 +1,26 @@
+Enter Member No : 
+Enter Tottal Cost : 
+Enter Name , Meal no , Joma : 
+
+
+.......................................
+
+Tottal cost No : 16569
+Tottal Joma Taka : 13015
+Tottal Meal No : 576
+Meal Rate : 28.7656
+
+ 1.  mehedi will pay 725.94 taka
+ 2.  parvej will pay 338.02 taka
+ 3.   rasel will get 274.06 taka
+ 4.  nazmul will pay 715.94 taka
+ 5.  mondol will pay 625.94 taka
+ 6.    anik will pay 148.94 taka
+ 7.  mahbub will pay 397.52 taka
+ 8.   sarif will pay 467.05 taka
+ 9.    atik will get 288.45 taka
+10.   iqbal will pay 697.17 taka
+
+Manager will tottaly get 3554
+
+!!!!!!!!!!!!!!! Thank You !!!!!!!!!!!!!!!!
